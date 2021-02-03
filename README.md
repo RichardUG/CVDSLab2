@@ -43,6 +43,8 @@
 Gitignore sirve basicamente para configurar un respositorio y hacer que archivos que no queremos que sean agregados automaticamente no se agreguen al momento de subir o
 actualizar archivos en nuestro repositorio. El uso de este se puede observar en
 
+### EJERCICIO DE LAS FIGURAS
+> ## COMPILAR Y EJECUTAR
 ## **BIBLIOGRAFIA**
 * [https://1984.lsi.us.es/wiki-egc/index.php/Primeros_pasos_con_Maven#Ciclo_de_vida_y_fases]()
 * [https://1984.lsi.us.es/wiki-egc/index.php/Primeros_pasos_con_Maven#Ciclo_de_vida_y_fases]()

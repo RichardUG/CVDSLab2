@@ -45,6 +45,8 @@ actualizar archivos en nuestro repositorio. El uso de este se puede observar en
 
 ### EJERCICIO DE LAS FIGURAS
 > ## COMPILAR Y EJECUTAR
+>> ## Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
+>>> Solo imprime "Hello world" porque es la unica indicaciín que tiene el programa App
 ## **BIBLIOGRAFIA**
 * [https://1984.lsi.us.es/wiki-egc/index.php/Primeros_pasos_con_Maven#Ciclo_de_vida_y_fases]()
 * [https://1984.lsi.us.es/wiki-egc/index.php/Primeros_pasos_con_Maven#Ciclo_de_vida_y_fases]()

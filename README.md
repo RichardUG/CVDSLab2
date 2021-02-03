@@ -47,9 +47,19 @@ actualizar archivos en nuestro repositorio. El uso de este se puede observar en
 > ## COMPILAR Y EJECUTAR
 >> ## Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
 >>> Solo imprime "Hello world" porque es la unica indicaciín que tiene el programa App
+
+### HACER EL ESQUELETO DE LA APLICACION
+> ## ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+>> Todas las intrucciones se ejecutaron, pero solo la ultima funciono correctamente, ya que la instruccion solo recibe como parametro los nombres exactos de cada figura (primera letra en mayuscula y las demas en minuscula).
+
+### *PARA QUE SIRVE Y COMO SE USA "gitignore"*
+> Gitignore sirve basicamente para configurar un respositorio y hacer que archivos que no queremos que sean agregados automaticamente no se agreguen al momento de subir o
+actualizar archivos en nuestro repositorio. El uso de este se puede observar en
+
 ## **BIBLIOGRAFIA**
 * [https://1984.lsi.us.es/wiki-egc/index.php/Primeros_pasos_con_Maven#Ciclo_de_vida_y_fases]()
 * [https://1984.lsi.us.es/wiki-egc/index.php/Primeros_pasos_con_Maven#Ciclo_de_vida_y_fases]()
 * [https://maven.apache.org/repository/index.html]()
 * [https://www.genbeta.com/desarrollo/que-es-maven]()
+* [https://enmilocalfunciona.io/por-que-utilizar-arquetipos-maven/]()
 
